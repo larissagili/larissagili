@@ -3,7 +3,7 @@
 <br />
 
 **Sobre mim**
-- 📊 Hoje trabalho como Analista NOC (Network Operations Center)
+- 📊 Atualmente trabalho como Analista NOC (Network Operations Center)
 - 🖥️ Cursando Sistemas da Informação e Redes de Computadores
 - 👩‍💻 Pronomes: ela/dela
 ## 
