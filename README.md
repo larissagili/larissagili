@@ -1,5 +1,5 @@
-## Olá!! Eu sou a Larissa Gili
-## <p align="left"><img height="130em" src="https://github.com/larissagili/larissagili/assets/141519478/9f019eec-9ac4-4578-b687-a1090b232842" /></a></p>
+## Olá! Eu sou a Larissa Gili.
+<p align="left"><img height="130em" src="https://github.com/larissagili/larissagili/assets/141519478/9f019eec-9ac4-4578-b687-a1090b232842" /></a></p>
 <br />
 
 **Sobre mim**
