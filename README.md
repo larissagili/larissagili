@@ -1,5 +1,5 @@
 # Olá! Eu sou a Larissa Gili.
-<p align="left"><img height="130em" src="https://github.com/larissagili/larissagili/assets/141519478/9f019eec-9ac4-4578-b687-a1090b232842" /></a></p>
+<p align="left"><img height="120em" src="https://github.com/larissagili/larissagili/assets/141519478/9f019eec-9ac4-4578-b687-a1090b232842" /></a></p>
 <br />
 
 **Sobre mim**
@@ -16,5 +16,6 @@
 <div> 
   <a href = "larissagilisantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissagili" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+  ![Snake animation](https://github.com/Rlarissagili/larissagili/blob/output/github-contribution-grid-snake.svg)
 </div>
